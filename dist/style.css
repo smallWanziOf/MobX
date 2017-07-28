@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MarvelScript';
+  src: url(font/MarvelScript.ttf);
+  font-weight: 600;
+  font-style: normal;
+}
+.hello {
+  color: red;
+  font-family: 'MarvelScript';
+}
+
+/*# sourceMappingURL=style.css.map*/
